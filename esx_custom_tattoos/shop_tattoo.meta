@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- Male Biker tattoos -->
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>NEW_TAT_001</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>new_tattoo_01_M</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+  <Item>
+	    <id value="82710"/>
+	    <cost value="50"/>
+	    <textLabel>TEST_TATTOO_01</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>TEST_TATTOO_01_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>BACK_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+  <Item>
+   <id value="82610"/>
+   <cost value="50"/>
+   <textLabel>db_tat_head_01</textLabel>
+   <collection>mpBeach_overlays</collection>
+   <preset>DB_tat_head_01_M</preset>
+   <eFacing>TATTOO_FRONT_LEFT</eFacing>
+   <updateGroup>HEAD_LEFT</updateGroup>
+   <eFaction>TATTOO_MP_FM</eFaction>
+   <lockHash>CUSTOM_TATTOOS</lockHash>
+ </Item>
+
+	<!-- Female Biker tattoos -->
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>NEW_TAT_001</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>new_tattoo_01_F</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+  </TattooShopItems>
+</TattooShopItemArray>
